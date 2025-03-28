@@ -103,16 +103,16 @@ npm run build
 
 #### 首页
 
-![首页](https://cdn.jsdelivr.net/gh/zhouweichaozwy/Backend-Management-System@main/README.assets/image-20250328205032914.png)
+![首页](https://gitee.com/longmaozwy/backend-management-system/raw/master/README.assets/image-20250328205032914.png)
 
 #### 分类管理页
 
-![分类管理页](https://cdn.jsdelivr.net/gh/zhouweichaozwy/Backend-Management-System@main/README.assets/image-20250328205114096.png)
+![分类管理页](https://gitee.com/longmaozwy/backend-management-system/raw/master/README.assets/image-20250328205114096.png)
 
 #### 商品管理页
 
-![商品管理页](https://cdn.jsdelivr.net/gh/zhouweichaozwy/Backend-Management-System@main/README.assets/image-20250328205136584.png)
+![商品管理页](https://gitee.com/longmaozwy/backend-management-system/raw/master/README.assets/image-20250328205136584.png)
 
 #### 个人中心页
 
-![个人中心页](https://cdn.jsdelivr.net/gh/zhouweichaozwy/Backend-Management-System@main/README.assets/image-20250328205208065.png)
+![个人中心页](https://gitee.com/longmaozwy/backend-management-system/raw/master/README.assets/image-20250328205208065.png)

@@ -116,3 +116,7 @@ npm run build
 #### 个人中心页
 
 ![个人中心页](https://gitee.com/longmaozwy/backend-management-system/raw/master/README.assets/image-20250328205208065.png)
+
+### 项目演示
+
+![项目演示](https://gitee.com/longmaozwy/backend-management-system/raw/master/README.assets/11.gif)
